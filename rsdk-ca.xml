@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
 	<include name="default.xml" />
-    <remote fetch="https://github.com/nxp-auto/meta-rsdk.git " name="rsdk-ca"/>
+    <remote fetch="https://github.com/nxp-auto " name="rsdk-ca"/>
 	<project remote="rsdk-ca" revision="3db96d4f1ff3dc254d10852893e489eb962f4db2" name="meta-rsdk" path="sources/meta-rsdk"/>
 </manifest>
